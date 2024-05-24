@@ -1,0 +1,2 @@
+rootProject.name = "CryptoJava"
+include ':app'
